@@ -56,7 +56,7 @@ public class MathUtilityTest {
         
         //Test case #4: test getF() with n = 4
         //      expected: result = 24;
-        assertEquals(240, MathUtility.getFactorial(4));
+        assertEquals(24, MathUtility.getFactorial(4));
         
         
         
